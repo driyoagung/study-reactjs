@@ -5,12 +5,10 @@ import "./index.css";
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
 import LoginPage from "./pages/login.jsx";
 import RegisterPage from "./pages/register.jsx";
+import ErrorPage from "./pages/404.jsx";
+import ProductsPage from "./pages/products.jsx";
 
 const router = createBrowserRouter([
-  {
-    path: "/",
-    element: <div>Hello agus</div>,
-  },
   {
     path: "/login",
     element: <LoginPage />,
@@ -18,6 +16,14 @@ const router = createBrowserRouter([
   {
     path: "/register",
     element: <RegisterPage />,
+  },
+  {
+    path: "/products",
+    element: <ProductsPage />,
+  },
+  {
+    path: "/",
+    element: <ProductsPage />,
   },
 ]);
 
