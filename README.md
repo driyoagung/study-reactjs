@@ -29,6 +29,8 @@ Materi yang dipelajari :
 18. Implement Redux - State Management
 19. useContext
 20. useReducer
-![capture3](https://github.com/driyoagung/study-reactjs/assets/135318551/ae13a612-4761-4dc5-87d3-008aab03ce6d)
-![Capture2](https://github.com/driyoagung/study-reactjs/assets/135318551/85e6f34e-6f0f-4495-b122-a0f489a8ff09)
 ![Capture](https://github.com/driyoagung/study-reactjs/assets/135318551/d217f1d9-632f-44e9-be55-c464d46d5094)
+![Capture2](https://github.com/driyoagung/study-reactjs/assets/135318551/85e6f34e-6f0f-4495-b122-a0f489a8ff09)
+![capture3](https://github.com/driyoagung/study-reactjs/assets/135318551/ae13a612-4761-4dc5-87d3-008aab03ce6d)
+
+
